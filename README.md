@@ -29,6 +29,6 @@ It features role-based access for **administrators** and **voters**, ensuring a 
 
 ###  Clone the Repository  
 ```bash
-git clone https://github.com/your-username/E-vote-manager.git
+git clone https://github.com/khushalpankhaniya/E-Vote-Manager.git
 
 
