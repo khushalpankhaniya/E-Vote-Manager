@@ -1,18 +1,19 @@
 ![Image](https://github.com/user-attachments/assets/bab3b157-3b35-41aa-8bde-6edd9ff704ac)
-
+***
 ![Image](https://github.com/user-attachments/assets/445230a0-486d-495e-9783-7d258115bc91)
-
+***
 ![Image](https://github.com/user-attachments/assets/2a02c77a-8800-4a5a-be48-13be5be8e0c5)
-
+***
 ![Image](https://github.com/user-attachments/assets/c40fc40c-3f10-4f4d-88aa-327b3e7a17b5)
-
+***
 ![Image](https://github.com/user-attachments/assets/08acce06-d001-4f2b-b2b7-f2ef37b22ba5)
-
+***
 ![Image](https://github.com/user-attachments/assets/d4fa031e-bc4f-43da-bea1-6a3e4a2f69d5)
-
+***
 ![Image](https://github.com/user-attachments/assets/f502c6ee-0477-4457-9ffb-c879a4dfe91e)
-
+***
 ![Image](https://github.com/user-attachments/assets/5d1a57a5-840a-4060-b790-156d663034a4)
+***
 
 #  E-Vote Manager  
 
