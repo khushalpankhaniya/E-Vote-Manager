@@ -30,5 +30,28 @@ It features role-based access for **administrators** and **voters**, ensuring a 
 ###  Clone the Repository  
 ```bash
 git clone https://github.com/khushalpankhaniya/E-Vote-Manager.git
+```
+
+###  set .env file at server 
+```bash
+PORT=
+MONGODB_URL=
+JWT_SECRET =
+```
+### installation 
+```bash
+cd server
+npm install
+npm run dev
+```
+
+```bash
+cd client
+npm install
+npm run dev
+```
+
+
+
 
 
